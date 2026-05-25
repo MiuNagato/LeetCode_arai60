@@ -3,8 +3,7 @@
 - [簡単な方法。こっちでやってみる](https://discord.com/channels/1084280443945353267/1366778718705553520/1450943270799671337)
 
 1. まず５分自分で考える
-2. Step1. 参考PRを丸暗記して３回完璧に書けるようにする
-└この時点では読めてなくてもおｋ
+2. Step1. 参考PRを丸暗記して３回完璧に書けるようにする（この時点では読めてなくてもおｋ）
 3. Step2. 複数人のPRを見る。構文を調べてちゃんと読む
 https://docs.google.com/document/d/11HV35ADPo9QxJOpJQ24FcZvtvioli770WWdZZDaLOfg/edit?tab=t.0#heading=h.2k4z0wt6ytf9
 4. Step3. 自分なりにアレンジして書いてみる
