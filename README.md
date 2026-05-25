@@ -1,7 +1,6 @@
 ### 進め方
-[公式。挫折しやすいかも](https://docs.google.com/document/d/1bjbOSs-Ac0G_cjVzJ2Qd8URoU_0BNirZ8utS3CUAeLE/edit?tab=t.0#heading=h.6ana9osx0wrd)
-
-[簡単な方法。こっちでやってみる](https://discord.com/channels/1084280443945353267/1366778718705553520/1450943270799671337)
+- [公式。挫折しやすいかも](https://docs.google.com/document/d/1bjbOSs-Ac0G_cjVzJ2Qd8URoU_0BNirZ8utS3CUAeLE/edit?tab=t.0#heading=h.6ana9osx0wrd)
+- [簡単な方法。こっちでやってみる](https://discord.com/channels/1084280443945353267/1366778718705553520/1450943270799671337)
 
 1. まず５分自分で考える
 2. Step1. 参考PRを丸暗記して３回完璧に書けるようにする
@@ -11,9 +10,8 @@ https://docs.google.com/document/d/11HV35ADPo9QxJOpJQ24FcZvtvioli770WWdZZDaLOfg/
 4. Step3. 自分なりにアレンジして書いてみる
 
 ### 参考PR
-https://github.com/olsen-blue/Arai60/pulls
-
-https://github.com/fuga-98/arai60/pulls?page=1&q=is%3Apr+is%3Aopen
+- https://github.com/olsen-blue/Arai60/pulls
+- https://github.com/fuga-98/arai60/pulls?page=1&q=is%3Apr+is%3Aopen
 
 ---
 
