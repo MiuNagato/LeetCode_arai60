@@ -17,7 +17,7 @@ https://docs.google.com/document/d/11HV35ADPo9QxJOpJQ24FcZvtvioli770WWdZZDaLOfg/
 ### LinkedList
 - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [ ] [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [x] [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [ ] [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [ ] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
